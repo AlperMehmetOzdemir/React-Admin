@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": "1",
-      "title": "Post One",
+      "title": "Post One (Modified)",
       "body": "This is the post body",
       "publishedAt": "10-01-2020"
     },
@@ -13,10 +13,10 @@
       "publishedAt": "10-01-2020"
     },
     {
-      "id": "3",
-      "title": "Post Three",
-      "body": "This is the post body",
-      "publishedAt": "10-01-2020"
+      "title": "New Post",
+      "body": "This is a new post",
+      "publishedAt": "2020-10-16",
+      "id": "A5GUkvB"
     }
   ],
   "users": [
@@ -26,5 +26,4 @@
       "email": "john@example.com"
     }
   ]
-
 }
